@@ -53,3 +53,8 @@
   position: absolute;
   width: 9px;
 }
+#form-lab {
+  outline: solid red 3px;
+  margin: 2rem;
+  padding: 2rem;
+}
