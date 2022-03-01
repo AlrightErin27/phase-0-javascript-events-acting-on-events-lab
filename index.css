@@ -6,18 +6,18 @@
 }
 
 #game {
-  background-color: rgb(31, 104, 91);
+  background-color: #111;
   height: 400px;
   margin: 0 auto;
   overflow: hidden;
   position: relative;
   text-align: center;
-  width: 800px;
+  width: 400px;
 }
 
 #start {
   color: white;
-  font-size: 8rem;
+  font-size: 4rem;
   position: relative;
   text-decoration: none;
   top: 4rem;
